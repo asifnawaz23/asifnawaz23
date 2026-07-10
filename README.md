@@ -53,7 +53,17 @@ const asifNawaz = {
 
 ### 🔴 PhoenixGrid — Real-Time Disaster Management Platform
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asifnawaz23&repo=PhoenixGrid&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e0f2fe&icon_color=0ea5e9&bg_color=0d1117)](https://github.com/asifnawaz23/PhoenixGrid)
+<p>
+  <a href="https://github.com/asifnawaz23/PhoenixGrid">
+    <img src="https://img.shields.io/badge/📁%20Repo-PhoenixGrid-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/asifnawaz23/PhoenixGrid?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/asifnawaz23/PhoenixGrid?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e&logo=star" />
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/asifnawaz23/PhoenixGrid?style=for-the-badge&color=0ea5e9&labelColor=0c4a6e&label=Last+Commit" />
+</p>
 
 > 🌍 A mission-critical web application for **real-time disaster management & emergency tracking**, seamlessly connecting citizens, rescue operators, and command centers.
 
@@ -75,7 +85,17 @@ const asifNawaz = {
 
 ### 🟣 PowerPeak Fitness (GYM\_MANAGMENT) — Gym Management Web App
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asifnawaz23&repo=GYM_MANAGMENT&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e0f2fe&icon_color=0ea5e9&bg_color=0d1117)](https://github.com/asifnawaz23/GYM_MANAGMENT)
+<p>
+  <a href="https://github.com/asifnawaz23/GYM_MANAGMENT">
+    <img src="https://img.shields.io/badge/📁%20Repo-GYM_MANAGMENT-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/asifnawaz23/GYM_MANAGMENT?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/asifnawaz23/GYM_MANAGMENT?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e&logo=star" />
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/asifnawaz23/GYM_MANAGMENT?style=for-the-badge&color=0ea5e9&labelColor=0c4a6e&label=Last+Commit" />
+</p>
 
 > 💪 **PowerPeak Fitness** — A full-featured gym & fitness center web platform with membership plans, facility showcases, responsive design, and Python Flask backend.
 
