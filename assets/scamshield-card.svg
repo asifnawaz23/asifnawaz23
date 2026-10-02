@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
+  <title id="title">ScamShield AI</title><desc id="desc">Explainable threat intelligence project card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111D"/><stop offset="1" stop-color="#10243A"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <radialGradient id="shield"><stop stop-color="#A7F3D0"/><stop offset="0.35" stop-color="#22D3EE"/><stop offset="1" stop-color="#0369A1"/></radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#67E8F9" stroke-opacity="0.06"/></pattern>
+  </defs>
+  <rect x="4" y="4" width="572" height="222" rx="22" fill="url(#bg)" stroke="url(#line)" stroke-width="2"/>
+  <rect x="4" y="4" width="572" height="222" rx="22" fill="url(#grid)"/>
+  <circle cx="486" cy="114" r="86" fill="#22D3EE" opacity="0.07"/>
+  <g transform="translate(32 34)" font-family="Segoe UI, Arial, sans-serif">
+    <text x="0" y="16" fill="#5EEAD4" font-size="11" font-weight="700" letter-spacing="2.2">01 / FLAGSHIP</text>
+    <text x="0" y="58" fill="#F8FAFC" font-size="27" font-weight="800">SCAMSHIELD AI</text>
+    <text x="0" y="86" fill="#BAE6FD" font-size="14">Explainable threat intelligence</text>
+    <text x="0" y="118" fill="#94A3B8" font-size="12">React · Node · Turso · Three.js</text>
+    <rect x="0" y="139" width="130" height="28" rx="8" fill="#0F172A" stroke="#2DD4BF" stroke-opacity="0.55"/>
+    <text x="15" y="158" fill="#99F6E4" font-size="11" font-weight="700">89 TESTS PASSING</text>
+  </g>
+  <g transform="translate(475 113)">
+    <path d="M0-69L55-46V-5C55 34 31 62 0 76C-31 62-55 34-55-5V-46Z" fill="url(#shield)" opacity="0.95" filter="url(#glow)"/>
+    <path d="M0-53L41-36V-5C41 24 24 46 0 59C-24 46-41 24-41-5V-36Z" fill="#082F49" fill-opacity="0.66" stroke="#ECFEFF" stroke-opacity="0.6"/>
+    <path d="M-20 1L-6 16L24-18" fill="none" stroke="#ECFEFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

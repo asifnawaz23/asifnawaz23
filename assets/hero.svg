@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Asif Nawaz — AI/ML and Full-Stack Developer</title>
+  <desc id="desc">A dark futuristic banner with cyan and violet gradients, an isometric 3D orb, and developer profile text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#11102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.07"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="35%" cy="28%" r="75%">
+      <stop offset="0" stop-color="#E0F2FE"/>
+      <stop offset="0.15" stop-color="#67E8F9"/>
+      <stop offset="0.52" stop-color="#2563EB"/>
+      <stop offset="0.82" stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#67E8F9" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#020617" flood-opacity="0.8"/>
+    </filter>
+    <clipPath id="frame"><rect x="12" y="12" width="1176" height="416" rx="28"/></clipPath>
+  </defs>
+
+  <rect x="12" y="12" width="1176" height="416" rx="28" fill="url(#bg)" stroke="url(#accent)" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <circle cx="1110" cy="-20" r="270" fill="#7C3AED" opacity="0.09"/>
+    <circle cx="830" cy="470" r="300" fill="#0891B2" opacity="0.08"/>
+    <path d="M0 350L1200 90" stroke="#22D3EE" stroke-opacity="0.06" stroke-width="80"/>
+    <rect x="690" y="12" width="498" height="416" fill="url(#grid)"/>
+
+    <g transform="translate(64 62)">
+      <rect x="0" y="0" width="180" height="30" rx="15" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.45"/>
+      <circle cx="18" cy="15" r="5" fill="#22D3EE" filter="url(#glow)"/>
+      <text x="32" y="20" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">AVAILABLE TO BUILD</text>
+
+      <text x="0" y="100" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1">MUHAMMAD ASIF</text>
+      <text x="0" y="156" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1">NAWAZ</text>
+      <rect x="0" y="178" width="472" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="0" y="218" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.2">AI / ML  +  FULL-STACK DEVELOPER</text>
+      <text x="0" y="252" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Engineering useful products from interface to intelligence.</text>
+
+      <g transform="translate(0 282)" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">
+        <rect x="0" y="0" width="108" height="32" rx="9" fill="#111827" stroke="#22D3EE" stroke-opacity="0.42"/>
+        <text x="18" y="21" fill="#67E8F9">TYPESCRIPT</text>
+        <rect x="120" y="0" width="83" height="32" rx="9" fill="#111827" stroke="#818CF8" stroke-opacity="0.48"/>
+        <text x="141" y="21" fill="#C4B5FD">PYTHON</text>
+        <rect x="215" y="0" width="76" height="32" rx="9" fill="#111827" stroke="#22D3EE" stroke-opacity="0.42"/>
+        <text x="236" y="21" fill="#67E8F9">REACT</text>
+        <rect x="303" y="0" width="89" height="32" rx="9" fill="#111827" stroke="#818CF8" stroke-opacity="0.48"/>
+        <text x="321" y="21" fill="#C4B5FD">NODE.JS</text>
+      </g>
+    </g>
+
+    <g transform="translate(860 218)" filter="url(#shadow)">
+      <ellipse cx="0" cy="128" rx="190" ry="45" fill="#020617" opacity="0.72"/>
+      <ellipse cx="0" cy="118" rx="174" ry="43" fill="none" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="2"/>
+      <ellipse cx="0" cy="118" rx="124" ry="31" fill="none" stroke="#A78BFA" stroke-opacity="0.36"/>
+
+      <g transform="translate(-4 -24)">
+        <circle cx="0" cy="0" r="100" fill="#22D3EE" opacity="0.14" filter="url(#glow)"/>
+        <circle cx="0" cy="0" r="82" fill="url(#orb)"/>
+        <ellipse cx="0" cy="0" rx="82" ry="28" fill="none" stroke="#E0F2FE" stroke-opacity="0.42"/>
+        <ellipse cx="0" cy="0" rx="32" ry="82" fill="none" stroke="#E0F2FE" stroke-opacity="0.3"/>
+        <path d="M-70-41C-24-8 27-4 72-33" fill="none" stroke="#FFFFFF" stroke-opacity="0.26" stroke-width="2"/>
+        <circle cx="-30" cy="-50" r="7" fill="#FFFFFF" opacity="0.85"/>
+        <circle cx="46" cy="28" r="5" fill="#67E8F9" filter="url(#glow)"/>
+      </g>
+
+      <g transform="translate(95 -120)">
+        <path d="M0 0L54 28L0 57L-54 28Z" fill="#A78BFA" fill-opacity="0.23" stroke="#C4B5FD" stroke-opacity="0.65"/>
+        <path d="M-54 28L0 57V116L-54 84Z" fill="#2563EB" fill-opacity="0.2" stroke="#60A5FA" stroke-opacity="0.45"/>
+        <path d="M54 28L0 57V116L54 84Z" fill="#7C3AED" fill-opacity="0.22" stroke="#A78BFA" stroke-opacity="0.5"/>
+      </g>
+
+      <g fill="#67E8F9">
+        <circle cx="-165" cy="-62" r="3"/><circle cx="-130" cy="-124" r="2" opacity="0.7"/>
+        <circle cx="160" cy="-40" r="3"/><circle cx="136" cy="66" r="2" opacity="0.7"/>
+      </g>
+      <g stroke="#22D3EE" stroke-opacity="0.35">
+        <path d="M-165-62L-96-38"/><path d="M160-40L91-20"/><path d="M136 66L82 38"/>
+      </g>
+    </g>
+  </g>
+</svg>

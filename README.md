@@ -1,217 +1,132 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Muhammad%20Asif%20Nawaz&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Software%20Engineering%20Undergrad&descAlignY=58&descSize=18&descColor=e0f2fe" />
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Building+PhoenixGrid+%E2%80%94+Real-Time+Disaster+Mgmt;Python+%7C+Java+%7C+TypeScript+%7C+React+%7C+Flask;SSUET+Software+Engineering+%F0%9F%8E%93;Turning+Ideas+into+Impactful+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="./assets/hero.svg" width="100%" alt="Muhammad Asif Nawaz — AI/ML and Full-Stack Developer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Internships%20%26%20Projects-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0369a1" />
+  <a href="mailto:masifnawaz815@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><img src="https://img.shields.io/badge/Connect-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn" /></a>
+  <a href="https://github.com/asifnawaz23?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="Projects" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifnawaz23&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/asifnawaz23?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e&label=FOLLOWERS&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/asifnawaz23?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e&label=TOTAL+STARS&logo=github" />
-</p>
-
----
-
-## 🧑‍💻 Who I Am
-
-```typescript
-const asifNawaz = {
-  title:            "Aspiring AI/ML Engineer | Software Engineering Undergrad",
-  internship:       "Front-End AI Engineering Intern",
-  university:       "Sir Syed University of Engineering & Technology (SSUET)",
-  stack: {
-    languages:      ["Python", "Java", "TypeScript", "JavaScript", "HTML", "CSS"],
-    frontend:       ["React 18", "Vite", "TailwindCSS", "Leaflet.js"],
-    backend:        ["Node.js", "Express.js", "Flask"],
-    databases:      ["Microsoft SQL Server (MSSQL)"],
-    tools:          ["Git", "GitHub", "VS Code", "IntelliJ IDEA"],
-  },
-  launchedProjects: ["PhoenixGrid", "PowerPeak Fitness (GYM_MANAGMENT)",
-                     "Hospital Management", "Python Typing Test Game",
-                     "Simple Calculator", "CLI Number Guessing Game"],
-  certifications:   ["Actively pursuing AI/ML certifications"],
-  status:           "🎓 Undergraduate @ SSUET | 💼 AI Engineering Intern",
-  openTo:           ["Internships", "AI/ML Projects", "Open Source Collaboration",
-                     "Entry-Level Software Roles"],
-  motto:            "Turning ideas into impactful solutions through code & creativity 🚀",
-};
-```
-
-> 🌟 *Passionate about AI & Machine Learning while building a solid base in software & web technologies. Believer in continuous growth, innovation, and collaboration.*
-
----
-
-## 🚀 Featured Projects
-
-### 🔴 PhoenixGrid — Real-Time Disaster Management Platform
-
-<p>
-  <a href="https://github.com/asifnawaz23/PhoenixGrid">
-    <img src="https://img.shields.io/badge/📁%20Repo-PhoenixGrid-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/languages/top/asifnawaz23/PhoenixGrid?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/asifnawaz23/PhoenixGrid?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e&logo=star" />
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/asifnawaz23/PhoenixGrid?style=for-the-badge&color=0ea5e9&labelColor=0c4a6e&label=Last+Commit" />
-</p>
-
-> 🌍 A mission-critical web application for **real-time disaster management & emergency tracking**, seamlessly connecting citizens, rescue operators, and command centers.
-
-| Layer | Technology |
-|---|---|
-| 🖥️ Frontend | React 18, Vite, TypeScript, TailwindCSS |
-| 🗺️ Mapping | Leaflet.js (Real-Time Spatial Mapping) |
-| ⚙️ Backend | Node.js, Express.js (REST APIs) |
-| 🗄️ Database | Microsoft SQL Server (MSSQL) |
-| 🔒 Security | Secure MSSQL driver integration |
-
-<p>
-  <a href="https://github.com/asifnawaz23/PhoenixGrid">
-    <img src="https://img.shields.io/badge/View%20Code-PhoenixGrid-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
-  </a>
-</p>
-
----
-
-### 🟣 PowerPeak Fitness (GYM\_MANAGMENT) — Gym Management Web App
-
-<p>
-  <a href="https://github.com/asifnawaz23/GYM_MANAGMENT">
-    <img src="https://img.shields.io/badge/📁%20Repo-GYM_MANAGMENT-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/languages/top/asifnawaz23/GYM_MANAGMENT?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/asifnawaz23/GYM_MANAGMENT?style=for-the-badge&color=7dd3fc&labelColor=0c4a6e&logo=star" />
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/asifnawaz23/GYM_MANAGMENT?style=for-the-badge&color=0ea5e9&labelColor=0c4a6e&label=Last+Commit" />
-</p>
-
-> 💪 **PowerPeak Fitness** — A full-featured gym & fitness center web platform with membership plans, facility showcases, responsive design, and Python Flask backend.
-
-| Layer | Technology |
-|---|---|
-| 🖥️ Frontend | HTML5, CSS3, Font Awesome Icons |
-| ⚙️ Backend | Flask (Python Web Framework) |
-| 🎨 Styling | Custom CSS, Media Queries (Responsive) |
-| 🌟 Features | Membership Plans (Basic / Premium / Elite), Toggle Billing, Newsletter |
-
-<p>
-  <a href="https://github.com/asifnawaz23/GYM_MANAGMENT">
-    <img src="https://img.shields.io/badge/View%20Code-GYM_MANAGMENT-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
-  </a>
-</p>
-
----
-
-### 🔵 More Projects on GitHub
-
-> Explore all my repos — including **Hospital Management**, **Python Typing Test Game**, **Simple Calculator**, **CLI Number Guessing**, **100 Days of Code**, and more!
-
-<p>
-  <a href="https://github.com/asifnawaz23?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-%E2%86%92-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css&theme=dark" />
-</p>
-
-### 🎨 Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
-</p>
-
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
-  &nbsp;<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-</p>
-
-### 🧰 Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
-</p>
-
-### 🤖 AI/ML & Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  &nbsp;<img src="https://img.shields.io/badge/AI%2FML-In%20Progress-7dd3fc?style=for-the-badge&logo=openai&logoColor=white&labelColor=0369a1" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asifnawaz23&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e0f2fe&icon_color=0ea5e9&bg_color=0d1117&hide_border=false&count_private=true" />
-  &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifnawaz23&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e0f2fe&bg_color=0d1117&hide_border=false&langs_count=8" />
+  <strong>Software Engineering undergraduate at SSUET</strong> building explainable AI products, full-stack platforms, and immersive 3D web experiences.
+  <br />I take ideas from product thinking and interface design to APIs, databases, testing, and deployment.
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=asifnawaz23&theme=nord&border=7dd3fc&ring=7dd3fc&fire=0ea5e9&currStreakLabel=7dd3fc&sideLabels=e0f2fe&background=0d1117" />
+  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_·_JUNIOR_ROLES_·_COLLABORATIONS-22D3EE?style=flat-square&labelColor=111827" alt="Open to internships, junior roles, and collaborations" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
+## Selected work
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifnawaz23&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <a href="https://github.com/asifnawaz23/ScamShield-AI"><img src="./assets/scamshield-card.svg" width="49%" alt="ScamShield AI project card" /></a>
+  <a href="https://github.com/asifnawaz23/Stream-ai-ChatBot"><img src="./assets/streamai-card.svg" width="49%" alt="STREAMAI project card" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/asifnawaz23/PrimeApp"><img src="./assets/primeapp-card.svg" width="49%" alt="Prime App Solutions project card" /></a>
+  <a href="https://github.com/asifnawaz23/PhoenixGrid"><img src="./assets/phoenixgrid-card.svg" width="49%" alt="PhoenixGrid project card" /></a>
 </p>
 
----
+### 01 · [ScamShield AI](https://github.com/asifnawaz23/ScamShield-AI) — explainable scam intelligence for Pakistan
 
-## 📈 Contribution Activity
+Transforms suspicious text, links, and screenshots into evidence-backed threat reports in **English and Roman Urdu**. Combines deterministic risk scoring with AI explanations, OCR, reputation checks, secure authentication, and a privacy-conscious history dashboard.
+
+`React` `TypeScript` `Node.js` `Turso` `Three.js` `AI Vision` · **89 automated tests**
+
+[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://myscamshield-ai.netlify.app/)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/ScamShield-AI)
+![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/ScamShield-AI?style=for-the-badge&color=8B5CF6&labelColor=111827)
+
+### 02 · [STREAMAI](https://github.com/asifnawaz23/Stream-ai-ChatBot) — real-time multi-model AI chat
+
+Streams Gemini and OpenRouter responses token by token inside a responsive cyberpunk interface with a live **React Three Fiber hologram**, model switching, key failover, Markdown rendering, and local conversation history.
+
+`Next.js 15` `React 19` `TypeScript` `Vercel AI SDK` `Three.js`
+
+[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://stream-ai-chat.vercel.app)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/Stream-ai-ChatBot)
+![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/Stream-ai-ChatBot?style=for-the-badge&color=06B6D4&labelColor=111827)
+
+### 03 · [Prime App Solutions](https://github.com/asifnawaz23/PrimeApp) — full-stack digital agency platform
+
+A deployed product experience with an interactive WebGL hero, responsive motion system, inquiry workflow, protected admin dashboard, content management, and PostgreSQL persistence.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Three.js` `Vercel`
+
+[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://prime-app-xi.vercel.app)
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/PrimeApp)
+![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/PrimeApp?style=for-the-badge&color=8B5CF6&labelColor=111827)
+
+### 04 · [PhoenixGrid](https://github.com/asifnawaz23/PhoenixGrid) — intelligent emergency response platform
+
+Connects citizens, rescue operators, and command centers through incident workflows and Leaflet-based spatial mapping, backed by a Node/Express API and Microsoft SQL Server.
+
+`React` `TypeScript` `Leaflet` `Node.js` `Express` `MSSQL`
+
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/PhoenixGrid)
+![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/PhoenixGrid?style=for-the-badge&color=06B6D4&labelColor=111827)
+
+## What I bring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI with evidence
+I design AI features around traceable signals, honest limitations, safe fallbacks, and useful explanations—not black-box output.
+
+</td>
+<td width="33%" valign="top">
+
+### End-to-end ownership
+From 3D interfaces and accessible UX to APIs, authentication, SQL data layers, testing, and cloud deployment.
+
+</td>
+<td width="33%" valign="top">
+
+### Product-minded polish
+I care about the problem, the user journey, and the final 10% of detail that turns a demo into a credible product.
+
+</td>
+</tr>
+</table>
+
+## Toolbox
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifnawaz23&theme=nord&bg_color=0d1117&color=7dd3fc&line=0ea5e9&point=ffffff&area=true&hide_border=false&border_color=7dd3fc" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,threejs,nodejs,express,flask,tailwind,vite,postgres,sqlite,git,github,vercel,netlify&perline=9&theme=dark" alt="Python, Java, TypeScript, JavaScript, React, Next.js, Three.js, Node.js, Express, Flask, Tailwind CSS, Vite, PostgreSQL, SQLite, Git, GitHub, Vercel, and Netlify" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/REST_APIs-06B6D4?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
----
+## Now
 
-## 🤝 Let's Connect
+- 🧠 Deepening practical AI/ML skills through the [`safex-ai-ml-internship`](https://github.com/asifnawaz23/safex-ai-ml-internship) lab and Python-based experiments.
+- 🛡️ Iterating on explainable, locally relevant safety tooling through [ScamShield AI](https://myscamshield-ai.netlify.app/).
+- 🤝 Open to **software engineering internships, junior full-stack/AI roles, and meaningful open-source collaborations**.
+
+## Development activity
 
 <p align="center">
-  <a href="mailto:masifnawaz815@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-masifnawaz815-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c4a6e" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asif%20Nawaz-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c4a6e" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/asifnawaz23">
-    <img src="https://img.shields.io/badge/GitHub-asifnawaz23-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0c4a6e" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifnawaz23&theme=github_dark" width="100%" alt="Muhammad Asif Nawaz's GitHub profile activity summary" />
+</p>
+
+## Let's build something useful
+
+<p align="center">
+  <strong>Have an internship, junior role, or product idea where AI and full-stack engineering meet?</strong>
+  <br /><br />
+  <a href="mailto:masifnawaz815@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-masifnawaz815%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email Muhammad Asif Nawaz" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD_ASIF_NAWAZ-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <i>💬 Open to collaborations, internships, and projects. Let's build something amazing together!</i>
+  <img src="https://komarev.com/ghpvc/?username=asifnawaz23&style=flat-square&color=06B6D4&label=PROFILE+VISITS" alt="Profile visits" />
+  <br />
+  <sub>Designed and built by Muhammad Asif Nawaz.</sub>
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
