@@ -1,26 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
-  <title id="title">ScamShield AI</title><desc id="desc">Explainable threat intelligence project card.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-labelledby="title desc">
+  <title id="title">ScamShield AI</title><desc id="desc">Animated premium project card for explainable threat intelligence.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111D"/><stop offset="1" stop-color="#10243A"/></linearGradient>
-    <linearGradient id="line"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/></linearGradient>
-    <radialGradient id="shield"><stop stop-color="#A7F3D0"/><stop offset="0.35" stop-color="#22D3EE"/><stop offset="1" stop-color="#0369A1"/></radialGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#67E8F9" stroke-opacity="0.06"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070807"/><stop offset="1" stop-color="#101511"/></linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DFFFAC"/><stop offset="0.4" stop-color="#B8FF5A"/><stop offset="1" stop-color="#30551A"/></linearGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.scan{animation:scan 4.5s linear infinite}.float{animation:float 5s ease-in-out infinite}.pulse{animation:pulse 2.6s ease-in-out infinite}@keyframes scan{0%{transform:translateX(-80px);opacity:0}12%,80%{opacity:.45}100%{transform:translateX(580px);opacity:0}}@keyframes float{0%,100%{opacity:.78}50%{opacity:1}}@keyframes pulse{0%,100%{opacity:.25}50%{opacity:.85}}@media(prefers-reduced-motion:reduce){.scan,.float,.pulse{animation:none!important}}</style>
   </defs>
-  <rect x="4" y="4" width="572" height="222" rx="22" fill="url(#bg)" stroke="url(#line)" stroke-width="2"/>
-  <rect x="4" y="4" width="572" height="222" rx="22" fill="url(#grid)"/>
-  <circle cx="486" cy="114" r="86" fill="#22D3EE" opacity="0.07"/>
-  <g transform="translate(32 34)" font-family="Segoe UI, Arial, sans-serif">
-    <text x="0" y="16" fill="#5EEAD4" font-size="11" font-weight="700" letter-spacing="2.2">01 / FLAGSHIP</text>
-    <text x="0" y="58" fill="#F8FAFC" font-size="27" font-weight="800">SCAMSHIELD AI</text>
-    <text x="0" y="86" fill="#BAE6FD" font-size="14">Explainable threat intelligence</text>
-    <text x="0" y="118" fill="#94A3B8" font-size="12">React · Node · Turso · Three.js</text>
-    <rect x="0" y="139" width="130" height="28" rx="8" fill="#0F172A" stroke="#2DD4BF" stroke-opacity="0.55"/>
-    <text x="15" y="158" fill="#99F6E4" font-size="11" font-weight="700">89 TESTS PASSING</text>
+  <rect x="4" y="4" width="572" height="232" rx="12" fill="url(#bg)" stroke="#F2F3ED" stroke-opacity="0.16"/>
+  <rect class="scan" x="-60" y="4" width="70" height="232" fill="#B8FF5A" opacity="0.08"/>
+  <path d="M22 51H558M334 20V220" stroke="#F2F3ED" stroke-opacity="0.08"/>
+  <g font-family="Consolas, SFMono-Regular, Menlo, monospace">
+    <text x="24" y="32" fill="#B8FF5A" font-size="9" letter-spacing="1.7">CASE / 01</text><text x="256" y="32" text-anchor="end" fill="#5F655F" font-size="9">SAFETY INTELLIGENCE</text>
+    <text x="24" y="91" fill="#F3F4EC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="650">ScamShield AI</text>
+    <text x="24" y="121" fill="#A5AAA5" font-family="Segoe UI, Arial, sans-serif" font-size="13">Evidence-first threat analysis</text>
+    <text x="24" y="152" fill="#636863" font-size="9">REACT  /  NODE  /  TURSO  /  THREE.JS</text>
+    <rect x="24" y="180" width="8" height="8" rx="4" fill="#B8FF5A" class="pulse"/><text x="42" y="188" fill="#C8CCC6" font-size="9" letter-spacing="1.2">LIVE SYSTEM · 89 TESTS</text>
   </g>
-  <g transform="translate(475 113)">
-    <path d="M0-69L55-46V-5C55 34 31 62 0 76C-31 62-55 34-55-5V-46Z" fill="url(#shield)" opacity="0.95" filter="url(#glow)"/>
-    <path d="M0-53L41-36V-5C41 24 24 46 0 59C-24 46-41 24-41-5V-36Z" fill="#082F49" fill-opacity="0.66" stroke="#ECFEFF" stroke-opacity="0.6"/>
-    <path d="M-20 1L-6 16L24-18" fill="none" stroke="#ECFEFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(455 120)" class="float">
+    <ellipse cx="0" cy="79" rx="86" ry="17" fill="#000" opacity="0.7"/>
+    <path d="M0-76L62-50V-4C62 40 35 70 0 87C-35 70-62 40-62-4V-50Z" fill="#B8FF5A" opacity="0.09" filter="url(#glow)"/>
+    <path d="M0-66L52-44V-6C52 31 30 58 0 73C-30 58-52 31-52-6V-44Z" fill="url(#shield)" fill-opacity="0.8" stroke="#E7FFC5" stroke-opacity="0.62"/>
+    <path d="M0-66V73C30 58 52 31 52-6V-44Z" fill="#18331D" fill-opacity="0.66"/>
+    <path d="M-21 0L-7 15L26-22" fill="none" stroke="#091006" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="none" stroke="#6CE5E8" stroke-opacity="0.36"><ellipse rx="94" ry="30"/><ellipse rx="77" ry="24"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></ellipse></g>
   </g>
 </svg>

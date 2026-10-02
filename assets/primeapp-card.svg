@@ -1,27 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
-  <title id="title">Prime App Solutions</title><desc id="desc">Full-stack digital agency platform project card.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-labelledby="title desc">
+  <title id="title">Prime App Solutions</title><desc id="desc">Animated premium project card for a full-stack agency platform.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101C"/><stop offset="1" stop-color="#101A35"/></linearGradient>
-    <linearGradient id="line"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
-    <linearGradient id="top"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080807"/><stop offset="1" stop-color="#13130E"/></linearGradient>
+    <linearGradient id="top"><stop stop-color="#F0F3E9"/><stop offset="1" stop-color="#B8FF5A"/></linearGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.stack1{animation:rise 4.6s ease-in-out infinite}.stack2{animation:rise 4.6s .7s ease-in-out infinite}.stack3{animation:rise 4.6s 1.4s ease-in-out infinite}.flow{stroke-dasharray:7 10;animation:flow 4s linear infinite}@keyframes rise{0%,100%{opacity:.62}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-120}}@media(prefers-reduced-motion:reduce){.stack1,.stack2,.stack3,.flow{animation:none!important}}</style>
   </defs>
-  <rect x="4" y="4" width="572" height="222" rx="22" fill="url(#bg)" stroke="url(#line)" stroke-width="2"/>
-  <circle cx="490" cy="54" r="100" fill="#2563EB" opacity="0.06"/>
-  <g transform="translate(32 34)" font-family="Segoe UI, Arial, sans-serif">
-    <text x="0" y="16" fill="#7DD3FC" font-size="11" font-weight="700" letter-spacing="2.2">03 / FULL-STACK</text>
-    <text x="0" y="58" fill="#F8FAFC" font-size="25" font-weight="800">PRIME APP</text>
-    <text x="0" y="86" fill="#BAE6FD" font-size="14">Digital agency platform</text>
-    <text x="0" y="118" fill="#94A3B8" font-size="12">Next.js · Prisma · PostgreSQL · 3D</text>
-    <rect x="0" y="139" width="125" height="28" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.58"/>
-    <text x="15" y="158" fill="#BAE6FD" font-size="11" font-weight="700">DEPLOYED LIVE</text>
+  <rect x="4" y="4" width="572" height="232" rx="12" fill="url(#bg)" stroke="#F2F3ED" stroke-opacity="0.16"/>
+  <path d="M22 51H558M334 20V220" stroke="#F2F3ED" stroke-opacity="0.08"/>
+  <g font-family="Consolas, SFMono-Regular, Menlo, monospace">
+    <text x="24" y="32" fill="#B8FF5A" font-size="9" letter-spacing="1.7">CASE / 03</text><text x="256" y="32" text-anchor="end" fill="#5F655F" font-size="9">PRODUCT PLATFORM</text>
+    <text x="24" y="91" fill="#F3F4EC" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="650">Prime App</text>
+    <text x="24" y="121" fill="#A5AAA5" font-family="Segoe UI, Arial, sans-serif" font-size="13">Full-stack digital agency system</text>
+    <text x="24" y="152" fill="#636863" font-size="9">NEXT.JS  /  PRISMA  /  POSTGRESQL  /  3D</text>
+    <rect x="24" y="180" width="8" height="8" rx="4" fill="#B8FF5A"/><text x="42" y="188" fill="#C8CCC6" font-size="9" letter-spacing="1.2">DEPLOYED · ADMIN + CMS</text>
   </g>
-  <g transform="translate(476 116)" filter="url(#glow)">
-    <path d="M0-78L66-44L0-10L-66-44Z" fill="url(#top)" fill-opacity="0.72" stroke="#E0F2FE" stroke-opacity="0.7"/>
-    <path d="M-66-44L0-10V44L-66 9Z" fill="#075985" fill-opacity="0.6" stroke="#38BDF8" stroke-opacity="0.55"/>
-    <path d="M66-44L0-10V44L66 9Z" fill="#5B21B6" fill-opacity="0.55" stroke="#A78BFA" stroke-opacity="0.6"/>
-    <path d="M0 0L49 25L0 50L-49 25Z" fill="#22D3EE" fill-opacity="0.28" stroke="#67E8F9" stroke-opacity="0.52"/>
-    <path d="M-49 25L0 50V76L-49 51Z" fill="#0369A1" fill-opacity="0.55"/>
-    <path d="M49 25L0 50V76L49 51Z" fill="#6D28D9" fill-opacity="0.52"/>
+  <g transform="translate(455 122)">
+    <ellipse cx="0" cy="76" rx="91" ry="20" fill="#000" opacity="0.75"/>
+    <path d="M-88 38L0-8L88 38L0 84Z" fill="#0C0E0C" stroke="#F2F3ED" stroke-opacity="0.12"/>
+    <path d="M-88 38L0 84L88 38" fill="none" stroke="#B8FF5A" stroke-opacity="0.17" class="flow"/>
+    <g class="stack1" transform="translate(-45 18)"><path d="M0 0L31-16L62 0L31 16Z" fill="url(#top)" fill-opacity="0.42"/><path d="M0 0L31 16V57L0 41Z" fill="#414D36"/><path d="M62 0L31 16V57L62 41Z" fill="#22291F"/></g>
+    <g class="stack2" transform="translate(18 -12)"><path d="M0 0L31-16L62 0L31 16Z" fill="url(#top)" fill-opacity="0.72"/><path d="M0 0L31 16V80L0 64Z" fill="#58713A"/><path d="M62 0L31 16V80L62 64Z" fill="#2D3D22"/></g>
+    <g class="stack3" transform="translate(-17 -70)"><path d="M0 0L31-16L62 0L31 16Z" fill="#E9FFD1"/><path d="M0 0L31 16V48L0 32Z" fill="#7DAF42"/><path d="M62 0L31 16V48L62 32Z" fill="#426425"/><circle cx="31" cy="0" r="3" fill="#091006" filter="url(#glow)"/></g>
   </g>
 </svg>

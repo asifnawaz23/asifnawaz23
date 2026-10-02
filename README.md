@@ -1,132 +1,109 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Muhammad Asif Nawaz — AI/ML and Full-Stack Developer" />
+  <img src="./assets/hero.svg" width="100%" alt="Muhammad Asif Nawaz — Software Engineer, AI Systems and Interactive Web" />
 </p>
 
 <p align="center">
-  <a href="mailto:masifnawaz815@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><img src="https://img.shields.io/badge/Connect-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn" /></a>
-  <a href="https://github.com/asifnawaz23?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="Projects" /></a>
+  <a href="mailto:masifnawaz815@gmail.com"><b>EMAIL</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><b>LINKEDIN</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/asifnawaz23?tab=repositories"><b>SYSTEM INDEX</b></a>
 </p>
+
+<br />
+
+## Profile
+
+Software engineer working across **AI-enabled products, full-stack systems, and interactive web experiences**. I move between product architecture, interface engineering, APIs, data, testing, and deployment—turning ambiguous ideas into software that is clear to use and straightforward to inspect.
+
+Currently completing a Software Engineering degree at **Sir Syed University of Engineering & Technology**, with a practical focus on explainable AI, resilient application flows, and motion that serves the product rather than distracting from it.
 
 <p align="center">
-  <strong>Software Engineering undergraduate at SSUET</strong> building explainable AI products, full-stack platforms, and immersive 3D web experiences.
-  <br />I take ideas from product thinking and interface design to APIs, databases, testing, and deployment.
+  <img src="./assets/engineering-signal.svg" width="100%" alt="Animated engineering signal dashboard showing verified project metrics and a qualitative capability map" />
 </p>
+
+<sub>Signals shown above are grounded in the featured repositories: three verified live deployments, 89 tests in the flagship system, and four curated case studies. The capability chart is qualitative, not a vanity score.</sub>
+
+<br />
+
+## Selected systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_·_JUNIOR_ROLES_·_COLLABORATIONS-22D3EE?style=flat-square&labelColor=111827" alt="Open to internships, junior roles, and collaborations" />
-</p>
-
-## Selected work
-
-<p align="center">
-  <a href="https://github.com/asifnawaz23/ScamShield-AI"><img src="./assets/scamshield-card.svg" width="49%" alt="ScamShield AI project card" /></a>
-  <a href="https://github.com/asifnawaz23/Stream-ai-ChatBot"><img src="./assets/streamai-card.svg" width="49%" alt="STREAMAI project card" /></a>
+  <a href="https://github.com/asifnawaz23/ScamShield-AI"><img src="./assets/scamshield-card.svg" width="49%" alt="ScamShield AI — evidence-first threat analysis" /></a>
+  <a href="https://github.com/asifnawaz23/Stream-ai-ChatBot"><img src="./assets/streamai-card.svg" width="49%" alt="STREAMAI — real-time multi-model conversation" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/asifnawaz23/PrimeApp"><img src="./assets/primeapp-card.svg" width="49%" alt="Prime App Solutions project card" /></a>
-  <a href="https://github.com/asifnawaz23/PhoenixGrid"><img src="./assets/phoenixgrid-card.svg" width="49%" alt="PhoenixGrid project card" /></a>
+  <a href="https://github.com/asifnawaz23/PrimeApp"><img src="./assets/primeapp-card.svg" width="49%" alt="Prime App — full-stack digital agency system" /></a>
+  <a href="https://github.com/asifnawaz23/PhoenixGrid"><img src="./assets/phoenixgrid-card.svg" width="49%" alt="PhoenixGrid — emergency response coordination" /></a>
 </p>
 
-### 01 · [ScamShield AI](https://github.com/asifnawaz23/ScamShield-AI) — explainable scam intelligence for Pakistan
+### 01 / ScamShield AI
 
-Transforms suspicious text, links, and screenshots into evidence-backed threat reports in **English and Roman Urdu**. Combines deterministic risk scoring with AI explanations, OCR, reputation checks, secure authentication, and a privacy-conscious history dashboard.
+An evidence-first scam intelligence system designed for Pakistan. It converts suspicious text, URLs, and screenshots into structured reports with traceable risk signals, English and Roman Urdu explanations, OCR, reputation checks, secure identity flows, and privacy-conscious history.
 
-`React` `TypeScript` `Node.js` `Turso` `Three.js` `AI Vision` · **89 automated tests**
+**Engineering signal:** deterministic analysis bound to explainable AI output; **89 automated tests** across detection, authentication, authorization, and reputation services.
 
-[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://myscamshield-ai.netlify.app/)
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/ScamShield-AI)
-![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/ScamShield-AI?style=for-the-badge&color=8B5CF6&labelColor=111827)
+`React` `TypeScript` `Node.js` `Turso` `Three.js` `AI Vision`
 
-### 02 · [STREAMAI](https://github.com/asifnawaz23/Stream-ai-ChatBot) — real-time multi-model AI chat
+[Live system ↗](https://myscamshield-ai.netlify.app/) &nbsp;·&nbsp; [Repository ↗](https://github.com/asifnawaz23/ScamShield-AI)
 
-Streams Gemini and OpenRouter responses token by token inside a responsive cyberpunk interface with a live **React Three Fiber hologram**, model switching, key failover, Markdown rendering, and local conversation history.
+### 02 / STREAMAI
+
+A real-time, multi-model conversation interface that streams Gemini and OpenRouter responses token by token. The system combines server-side provider routing and key failover with local conversation history, Markdown rendering, responsive interaction design, and a live React Three Fiber hologram.
 
 `Next.js 15` `React 19` `TypeScript` `Vercel AI SDK` `Three.js`
 
-[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://stream-ai-chat.vercel.app)
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/Stream-ai-ChatBot)
-![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/Stream-ai-ChatBot?style=for-the-badge&color=06B6D4&labelColor=111827)
+[Live system ↗](https://stream-ai-chat.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/asifnawaz23/Stream-ai-ChatBot)
 
-### 03 · [Prime App Solutions](https://github.com/asifnawaz23/PrimeApp) — full-stack digital agency platform
+### 03 / Prime App
 
-A deployed product experience with an interactive WebGL hero, responsive motion system, inquiry workflow, protected admin dashboard, content management, and PostgreSQL persistence.
+A deployed full-stack platform for a digital engineering studio. The application pairs a custom WebGL interface with inquiry workflows, protected administration, content management, PostgreSQL persistence, and serverless deployment.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Three.js` `Vercel`
 
-[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://prime-app-xi.vercel.app)
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/PrimeApp)
-![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/PrimeApp?style=for-the-badge&color=8B5CF6&labelColor=111827)
+[Live system ↗](https://prime-app-xi.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/asifnawaz23/PrimeApp)
 
-### 04 · [PhoenixGrid](https://github.com/asifnawaz23/PhoenixGrid) — intelligent emergency response platform
+### 04 / PhoenixGrid
 
-Connects citizens, rescue operators, and command centers through incident workflows and Leaflet-based spatial mapping, backed by a Node/Express API and Microsoft SQL Server.
+An emergency-response platform connecting citizens, rescue operators, and command workflows through incident handling and Leaflet-based spatial mapping, supported by a Node/Express service layer and Microsoft SQL Server.
 
 `React` `TypeScript` `Leaflet` `Node.js` `Express` `MSSQL`
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asifnawaz23/PhoenixGrid)
-![Last commit](https://img.shields.io/github/last-commit/asifnawaz23/PhoenixGrid?style=for-the-badge&color=06B6D4&labelColor=111827)
+[Repository ↗](https://github.com/asifnawaz23/PhoenixGrid)
 
-## What I bring
+<br />
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## Engineering range
 
-### AI with evidence
-I design AI features around traceable signals, honest limitations, safe fallbacks, and useful explanations—not black-box output.
+| Surface | Working set |
+|:--|:--|
+| **Product & interface** | React, Next.js, TypeScript, Tailwind CSS, Framer Motion, responsive systems |
+| **Interactive 3D** | Three.js, React Three Fiber, WebGL scenes, procedural motion, graceful fallbacks |
+| **Services** | Node.js, Express, Flask, REST APIs, authentication, serverless functions |
+| **Data** | PostgreSQL, Prisma, Turso/libSQL, SQLite, Microsoft SQL Server |
+| **Applied AI** | Gemini, OpenRouter, OCR/vision flows, streaming inference, evidence-first explanations |
+| **Delivery** | Git, automated tests, Vercel, Netlify, environment and deployment design |
 
-</td>
-<td width="33%" valign="top">
+## Working principles
 
-### End-to-end ownership
-From 3D interfaces and accessible UX to APIs, authentication, SQL data layers, testing, and cloud deployment.
+**Evidence over spectacle.** Intelligent features should show their reasoning, expose uncertainty, and fail honestly.
 
-</td>
-<td width="33%" valign="top">
+**Interface is part of the system.** Motion, hierarchy, accessibility, and responsiveness are engineering concerns—not decoration after the fact.
 
-### Product-minded polish
-I care about the problem, the user journey, and the final 10% of detail that turns a demo into a credible product.
+**A prototype should have a path forward.** I prefer clear architecture, documented constraints, testable behavior, and deployment-aware decisions from the beginning.
 
-</td>
-</tr>
-</table>
+## Current thread
 
-## Toolbox
+Recent work is centered on practical AI/ML experimentation in Python through the [`safex-ai-ml-internship`](https://github.com/asifnawaz23/safex-ai-ml-internship) lab, alongside continued refinement of explainable safety tooling and production-oriented web systems.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,threejs,nodejs,express,flask,tailwind,vite,postgres,sqlite,git,github,vercel,netlify&perline=9&theme=dark" alt="Python, Java, TypeScript, JavaScript, React, Next.js, Three.js, Node.js, Express, Flask, Tailwind CSS, Vite, PostgreSQL, SQLite, Git, GitHub, Vercel, and Netlify" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter" />
-  <img src="https://img.shields.io/badge/REST_APIs-06B6D4?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-</p>
+## Contact
 
-## Now
+For engineering, product, or research conversations:
 
-- 🧠 Deepening practical AI/ML skills through the [`safex-ai-ml-internship`](https://github.com/asifnawaz23/safex-ai-ml-internship) lab and Python-based experiments.
-- 🛡️ Iterating on explainable, locally relevant safety tooling through [ScamShield AI](https://myscamshield-ai.netlify.app/).
-- 🤝 Open to **software engineering internships, junior full-stack/AI roles, and meaningful open-source collaborations**.
+[**masifnawaz815@gmail.com**](mailto:masifnawaz815@gmail.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/muhammad-asif-nawaz-) &nbsp;·&nbsp; [**GitHub**](https://github.com/asifnawaz23)
 
-## Development activity
+<br />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifnawaz23&theme=github_dark" width="100%" alt="Muhammad Asif Nawaz's GitHub profile activity summary" />
-</p>
-
-## Let's build something useful
-
-<p align="center">
-  <strong>Have an internship, junior role, or product idea where AI and full-stack engineering meet?</strong>
-  <br /><br />
-  <a href="mailto:masifnawaz815@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-masifnawaz815%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email Muhammad Asif Nawaz" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD_ASIF_NAWAZ-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect on LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifnawaz23&style=flat-square&color=06B6D4&label=PROFILE+VISITS" alt="Profile visits" />
-  <br />
-  <sub>Designed and built by Muhammad Asif Nawaz.</sub>
+  <sub>Designed as a living systems portfolio by Muhammad Asif Nawaz.</sub>
 </p>
