@@ -12,8 +12,8 @@
     <filter id="deepShadow" x="-80%" y="-80%" width="260%" height="260%"><feDropShadow dx="0" dy="22" stdDeviation="20" flood-color="#000000" flood-opacity="0.9"/></filter>
     <clipPath id="frame"><rect x="10" y="10" width="1180" height="500" rx="18"/></clipPath>
     <style>
-      .signal{stroke-dasharray:8 12;animation:signal 4s linear infinite}.blink{animation:blink 2.4s ease-in-out infinite}.float{animation:float 7s ease-in-out infinite}.floatSlow{animation:floatSlow 10s ease-in-out infinite}.pulse{animation:pulse 3.2s ease-in-out infinite}.scan{animation:scan 7s linear infinite}.ticker{animation:ticker 12s linear infinite}
-      @keyframes signal{to{stroke-dashoffset:-200}}@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}@keyframes float{0%,100%{opacity:.82}50%{opacity:1}}@keyframes floatSlow{0%,100%{opacity:.68}50%{opacity:1}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:.9}}@keyframes scan{0%{transform:translateX(-120px);opacity:0}8%,85%{opacity:.5}100%{transform:translateX(1180px);opacity:0}}@keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-420px)}}
+      .signal{stroke-dasharray:8 12;animation:signal 4s linear infinite}.blink{animation:blink 2.4s ease-in-out infinite}.float{animation:float 7s ease-in-out infinite}.floatSlow{animation:floatSlow 10s ease-in-out infinite}.pulse{animation:pulse 3.2s ease-in-out infinite}.scan{animation:scan 7s linear infinite}.ticker{animation:ticker 32s linear infinite}
+      @keyframes signal{to{stroke-dashoffset:-200}}@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}@keyframes float{0%,100%{opacity:.82}50%{opacity:1}}@keyframes floatSlow{0%,100%{opacity:.68}50%{opacity:1}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:.9}}@keyframes scan{0%{transform:translateX(-120px);opacity:0}8%,85%{opacity:.5}100%{transform:translateX(1180px);opacity:0}}@keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-1120px)}}
       @media(prefers-reduced-motion:reduce){.signal,.blink,.float,.floatSlow,.pulse,.scan,.ticker{animation:none!important}}
     </style>
   </defs>
@@ -21,13 +21,18 @@
   <rect x="10" y="10" width="1180" height="500" rx="18" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.5"/>
   <g clip-path="url(#frame)">
     <rect x="10" y="10" width="1180" height="500" fill="url(#microgrid)"/>
+    <g stroke="#B8FF5A" fill="none">
+      <path d="M914 300L640 456M914 300L716 456M914 300L792 456M914 300L868 456M914 300L944 456M914 300L1020 456M914 300L1096 456M914 300L1172 456" stroke-opacity="0.07"/>
+      <path d="M760 388H1068M720 411H1108M676 436H1152" stroke-opacity="0.06"/>
+      <path d="M800 365H1028" stroke-opacity="0.08"/>
+    </g>
     <ellipse cx="922" cy="258" rx="285" ry="270" fill="#B8FF5A" opacity="0.025"/>
     <path d="M640 10L1040 510" stroke="#6CE5E8" stroke-opacity="0.035" stroke-width="110"/>
     <rect class="scan" x="0" y="10" width="110" height="500" fill="url(#edge)" opacity="0.14"/>
 
     <g font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">
-      <text x="38" y="42" fill="#B8FF5A">MAN / SYSTEM PROFILE</text>
-      <text x="962" y="42" fill="#747A74">02.10.2026 / INDEX</text>
+      <text x="38" y="42" fill="#B8FF5A">PORTFOLIO / MUHAMMAD ASIF NAWAZ</text>
+      <text x="1140" y="42" fill="#747A74" text-anchor="end">SOFTWARE ENGINEERING · SSUET</text>
       <circle class="blink" cx="1158" cy="38" r="4" fill="#B8FF5A"/>
     </g>
     <path d="M38 58H1162" stroke="#F4F4EC" stroke-opacity="0.1"/>
@@ -37,13 +42,13 @@
       <text x="0" y="76" fill="#F3F4EC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="300" letter-spacing="-2">MUHAMMAD ASIF</text>
       <text x="0" y="138" fill="#F3F4EC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">NAWAZ<tspan fill="#B8FF5A">.</tspan></text>
       <path d="M0 166H488" stroke="#F4F4EC" stroke-opacity="0.14"/><path d="M0 166H136" stroke="#B8FF5A" stroke-width="2"/>
-      <text x="0" y="204" fill="#B9BDB9" font-family="Segoe UI, Arial, sans-serif" font-size="17">Product architecture, intelligent features, dependable delivery.</text>
-      <text x="0" y="232" fill="#777C77" font-family="Segoe UI, Arial, sans-serif" font-size="14">Building software that can be used, inspected, and improved.</text>
+      <text x="0" y="204" fill="#B9BDB9" font-family="Segoe UI, Arial, sans-serif" font-size="17">I build AI-powered products end to end.</text>
+      <text x="0" y="232" fill="#777C77" font-family="Segoe UI, Arial, sans-serif" font-size="14">React and Node interfaces, Python services, applied ML, real-time systems.</text>
 
       <g transform="translate(0 274)" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.4">
-        <g><rect width="136" height="46" rx="3" fill="#0C0E0D" stroke="#F4F4EC" stroke-opacity="0.12"/><text x="14" y="18" fill="#666B66">FOCUS / 01</text><text x="14" y="34" fill="#EDEFE7">AI SYSTEMS</text></g>
-        <g transform="translate(146)"><rect width="136" height="46" rx="3" fill="#0C0E0D" stroke="#F4F4EC" stroke-opacity="0.12"/><text x="14" y="18" fill="#666B66">FOCUS / 02</text><text x="14" y="34" fill="#EDEFE7">FULL-STACK</text></g>
-        <g transform="translate(292)"><rect width="136" height="46" rx="3" fill="#0C0E0D" stroke="#F4F4EC" stroke-opacity="0.12"/><text x="14" y="18" fill="#666B66">FOCUS / 03</text><text x="14" y="34" fill="#EDEFE7">3D INTERFACE</text></g>
+        <g><rect width="136" height="46" rx="3" fill="#0C0E0D" stroke="#B8FF5A" stroke-opacity="0.3"/><text x="14" y="18" fill="#666B66">INTERN / SAFEX</text><text x="14" y="34" fill="#EDEFE7">AI / ML</text></g>
+        <g transform="translate(146)"><rect width="136" height="46" rx="3" fill="#0C0E0D" stroke="#6CE5E8" stroke-opacity="0.3"/><text x="14" y="18" fill="#666B66">INTERN / FLYRANK</text><text x="14" y="34" fill="#EDEFE7">FRONT-END AI</text></g>
+        <g transform="translate(292)"><rect width="136" height="46" rx="3" fill="#0C0E0D" stroke="#F4F4EC" stroke-opacity="0.12"/><text x="14" y="18" fill="#666B66">BS SE / SSUET</text><text x="14" y="34" fill="#EDEFE7">IN PROGRESS</text></g>
       </g>
     </g>
 
@@ -83,18 +88,22 @@
 
       <g class="floatSlow" transform="translate(154 -118)" font-family="Consolas, monospace" font-size="9">
         <rect x="0" y="0" width="112" height="42" rx="3" fill="#0B0D0C" stroke="#F4F4EC" stroke-opacity="0.16"/>
-        <text x="10" y="17" fill="#626862">SYSTEM STATE</text><text x="10" y="31" fill="#B8FF5A">OPERATIONAL</text>
+        <text x="10" y="17" fill="#626862">SHIPPED LIVE</text><text x="10" y="31" fill="#B8FF5A">3 PRODUCTS</text>
       </g>
       <g class="float" transform="translate(-238 76)" font-family="Consolas, monospace" font-size="9">
         <rect width="116" height="42" rx="3" fill="#0B0D0C" stroke="#F4F4EC" stroke-opacity="0.16"/>
-        <text x="10" y="17" fill="#626862">MODE</text><text x="10" y="31" fill="#EDEFE7">BUILD / REFINE</text>
+        <text x="10" y="17" fill="#626862">AUTOMATED TESTS</text><text x="10" y="31" fill="#EDEFE7">100+ PASSING</text>
       </g>
     </g>
 
     <path d="M38 456H1162" stroke="#F4F4EC" stroke-opacity="0.1"/>
-    <g clip-path="url(#frame)" transform="translate(38 476)" font-family="Consolas, monospace" font-size="10" letter-spacing="2">
-      <g class="ticker" fill="#656A65">
-        <text x="0" y="0">TYPE-SAFE SYSTEMS</text><circle cx="166" cy="-4" r="2" fill="#B8FF5A"/><text x="186">EXPLAINABLE AI</text><circle cx="330" cy="-4" r="2" fill="#6CE5E8"/><text x="350">MOTION WITH PURPOSE</text><circle cx="560" cy="-4" r="2" fill="#B8FF5A"/><text x="580">API + DATA</text><circle cx="698" cy="-4" r="2" fill="#6CE5E8"/><text x="718">TESTED DELIVERY</text><circle cx="894" cy="-4" r="2" fill="#B8FF5A"/><text x="914">TYPE-SAFE SYSTEMS</text><circle cx="1080" cy="-4" r="2" fill="#B8FF5A"/><text x="1100">EXPLAINABLE AI</text>
+    <clipPath id="tickerClip"><rect x="38" y="462" width="1124" height="26"/></clipPath>
+    <g clip-path="url(#tickerClip)">
+      <g transform="translate(38 480)" font-family="Consolas, monospace" font-size="10" letter-spacing="2">
+        <g class="ticker" fill="#656A65">
+          <g id="stackSet"><text x="0">TYPESCRIPT</text><circle cx="106" cy="-4" r="2" fill="#B8FF5A"/><text x="133">REACT / NEXT.JS</text><circle cx="279" cy="-4" r="2" fill="#6CE5E8"/><text x="306">NODE.JS</text><circle cx="388" cy="-4" r="2" fill="#B8FF5A"/><text x="415">PYTHON / FASTAPI</text><circle cx="569" cy="-4" r="2" fill="#6CE5E8"/><text x="596">HUGGING FACE</text><circle cx="718" cy="-4" r="2" fill="#B8FF5A"/><text x="745">THREE.JS</text><circle cx="835" cy="-4" r="2" fill="#6CE5E8"/><text x="862">POSTGRESQL</text><circle cx="968" cy="-4" r="2" fill="#B8FF5A"/><text x="995">SOCKET.IO</text><circle cx="1093" cy="-4" r="2" fill="#6CE5E8"/></g>
+          <use href="#stackSet" x="1120"/>
+        </g>
       </g>
     </g>
   </g>

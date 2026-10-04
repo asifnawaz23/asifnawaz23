@@ -9,7 +9,7 @@
   <rect x="4" y="4" width="572" height="232" rx="12" fill="url(#bg)" stroke="#F2F3ED" stroke-opacity="0.16"/>
   <path d="M22 51H558M334 20V220" stroke="#F2F3ED" stroke-opacity="0.08"/>
   <g font-family="Consolas, SFMono-Regular, Menlo, monospace">
-    <text x="24" y="32" fill="#6CE5E8" font-size="9" letter-spacing="1.7">CASE / 02</text><text x="256" y="32" text-anchor="end" fill="#5F655F" font-size="9">STREAMING INTERFACE</text>
+    <text x="24" y="32" fill="#6CE5E8" font-size="9" letter-spacing="1.7">CASE / 04</text><text x="256" y="32" text-anchor="end" fill="#5F655F" font-size="9">STREAMING INTERFACE</text>
     <text x="24" y="91" fill="#F3F4EC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="650">STREAMAI</text>
     <text x="24" y="121" fill="#A5AAA5" font-family="Segoe UI, Arial, sans-serif" font-size="13">Real-time multi-model conversation</text>
     <text x="24" y="152" fill="#636863" font-size="9">NEXT.JS  /  GEMINI  /  OPENROUTER  /  R3F</text>

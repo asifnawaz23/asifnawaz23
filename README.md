@@ -1,109 +1,210 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Muhammad Asif Nawaz — Software Engineer, AI Systems and Interactive Web" />
+  <img src="./assets/hero.svg" width="100%" alt="Muhammad Asif Nawaz, software engineer. AI/ML intern at SafeX, Front-End AI intern at FlyRank, BS Software Engineering at SSUET." />
 </p>
 
 <p align="center">
-  <a href="mailto:masifnawaz815@gmail.com"><b>EMAIL</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><b>LINKEDIN</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/asifnawaz23?tab=repositories"><b>SYSTEM INDEX</b></a>
+  <a href="mailto:masifnawaz815@gmail.com"><b>Email</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-asif-nawaz-"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://myscamshield-ai.netlify.app/"><b>Live: ScamShield AI</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://stream-ai-chat.vercel.app"><b>Live: STREAMAI</b></a>
 </p>
 
-<br />
+## Hi, I'm Asif
 
-## Profile
+I'm a Software Engineering student at SSUET who builds full products: React and Next.js interfaces, Node and Python services, SQL data layers, and AI features that show how they reached a result. My recent work covers scam detection, NLP feedback analytics, live fleet tracking, and streaming LLM chat.
 
-Software engineer working across **AI-enabled products, full-stack systems, and interactive web experiences**. I move between product architecture, interface engineering, APIs, data, testing, and deployment—turning ambiguous ideas into software that is clear to use and straightforward to inspect.
-
-Currently completing a Software Engineering degree at **Sir Syed University of Engineering & Technology**, with a practical focus on explainable AI, resilient application flows, and motion that serves the product rather than distracting from it.
-
-<p align="center">
-  <img src="./assets/engineering-signal.svg" width="100%" alt="Animated engineering signal dashboard showing verified project metrics and a qualitative capability map" />
-</p>
-
-<sub>Signals shown above are grounded in the featured repositories: three verified live deployments, 89 tests in the flagship system, and four curated case studies. The capability chart is qualitative, not a vanity score.</sub>
-
-<br />
-
-## Selected systems
-
-<p align="center">
-  <a href="https://github.com/asifnawaz23/ScamShield-AI"><img src="./assets/scamshield-card.svg" width="49%" alt="ScamShield AI — evidence-first threat analysis" /></a>
-  <a href="https://github.com/asifnawaz23/Stream-ai-ChatBot"><img src="./assets/streamai-card.svg" width="49%" alt="STREAMAI — real-time multi-model conversation" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/asifnawaz23/PrimeApp"><img src="./assets/primeapp-card.svg" width="49%" alt="Prime App — full-stack digital agency system" /></a>
-  <a href="https://github.com/asifnawaz23/PhoenixGrid"><img src="./assets/phoenixgrid-card.svg" width="49%" alt="PhoenixGrid — emergency response coordination" /></a>
-</p>
-
-### 01 / ScamShield AI
-
-An evidence-first scam intelligence system designed for Pakistan. It converts suspicious text, URLs, and screenshots into structured reports with traceable risk signals, English and Roman Urdu explanations, OCR, reputation checks, secure identity flows, and privacy-conscious history.
-
-**Engineering signal:** deterministic analysis bound to explainable AI output; **89 automated tests** across detection, authentication, authorization, and reputation services.
-
-`React` `TypeScript` `Node.js` `Turso` `Three.js` `AI Vision`
-
-[Live system ↗](https://myscamshield-ai.netlify.app/) &nbsp;·&nbsp; [Repository ↗](https://github.com/asifnawaz23/ScamShield-AI)
-
-### 02 / STREAMAI
-
-A real-time, multi-model conversation interface that streams Gemini and OpenRouter responses token by token. The system combines server-side provider routing and key failover with local conversation history, Markdown rendering, responsive interaction design, and a live React Three Fiber hologram.
-
-`Next.js 15` `React 19` `TypeScript` `Vercel AI SDK` `Three.js`
-
-[Live system ↗](https://stream-ai-chat.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/asifnawaz23/Stream-ai-ChatBot)
-
-### 03 / Prime App
-
-A deployed full-stack platform for a digital engineering studio. The application pairs a custom WebGL interface with inquiry workflows, protected administration, content management, PostgreSQL persistence, and serverless deployment.
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Three.js` `Vercel`
-
-[Live system ↗](https://prime-app-xi.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/asifnawaz23/PrimeApp)
-
-### 04 / PhoenixGrid
-
-An emergency-response platform connecting citizens, rescue operators, and command workflows through incident handling and Leaflet-based spatial mapping, supported by a Node/Express service layer and Microsoft SQL Server.
-
-`React` `TypeScript` `Leaflet` `Node.js` `Express` `MSSQL`
-
-[Repository ↗](https://github.com/asifnawaz23/PhoenixGrid)
-
-<br />
-
-## Engineering range
-
-| Surface | Working set |
+| | |
 |:--|:--|
-| **Product & interface** | React, Next.js, TypeScript, Tailwind CSS, Framer Motion, responsive systems |
-| **Interactive 3D** | Three.js, React Three Fiber, WebGL scenes, procedural motion, graceful fallbacks |
-| **Services** | Node.js, Express, Flask, REST APIs, authentication, serverless functions |
-| **Data** | PostgreSQL, Prisma, Turso/libSQL, SQLite, Microsoft SQL Server |
-| **Applied AI** | Gemini, OpenRouter, OCR/vision flows, streaming inference, evidence-first explanations |
-| **Delivery** | Git, automated tests, Vercel, Netlify, environment and deployment design |
+| **Focus** | Applied AI · full-stack web · real-time systems · interactive 3D |
+| **Experience** | AI/ML Intern at **SafeX** · Front-End AI Engineering Intern at **FlyRank** |
+| **Education** | BS Software Engineering, Sir Syed University of Engineering & Technology (in progress) |
+| **Proof** | 3 live deployments · 100+ automated tests across ScamShield, DentalSense, and the vulnerability triage tool |
 
-## Working principles
+<p align="center">
+  <img src="./assets/trajectory.svg" width="100%" alt="Isometric timeline: 2024 foundations, 2025 first full-stack apps, July 2026 spatial systems, August 2026 shipped products and FlyRank internship, September 2026 applied AI and SafeX internship." />
+</p>
 
-**Evidence over spectacle.** Intelligent features should show their reasoning, expose uncertainty, and fail honestly.
+<sub>Each step maps to public repositories. Work moved from small CLI tools in 2024 to deployed, tested AI products in 2026.</sub>
 
-**Interface is part of the system.** Motion, hierarchy, accessibility, and responsiveness are engineering concerns—not decoration after the fact.
+## Experience
 
-**A prototype should have a path forward.** I prefer clear architecture, documented constraints, testable behavior, and deployment-aware decisions from the beginning.
+**AI/ML Intern · SafeX** &nbsp;<sub>2026</sub>
 
-## Current thread
+- Built **DentalSense AI**, a feedback analytics platform. It runs DistilBERT sentiment inference locally behind a FastAPI service, tags 9 operational themes with transparent rules, validates CSV batches, and shows trends in a React dashboard. Ships with a model card and a pytest suite.
+- Built an **AI-assisted vulnerability triage tool**. It combines zero-shot classification (DeBERTa-v3 NLI) with a deterministic validation layer and outputs severity, explanation, and remediation as JSON reports. Passes 10 of 10 controlled scenarios.
+- [Repository ↗](https://github.com/asifnawaz23/safex-ai-ml-internship)
 
-Recent work is centered on practical AI/ML experimentation in Python through the [`safex-ai-ml-internship`](https://github.com/asifnawaz23/safex-ai-ml-internship) lab, alongside continued refinement of explainable safety tooling and production-oriented web systems.
+**Front-End AI Engineering Intern · FlyRank** &nbsp;<sub>2026</sub>
+
+- Implemented accessible **Modal, Tabs, and Disclosure** components from scratch, following the WAI-ARIA Authoring Practices: focus trapping and restoration, keyboard navigation, Escape handling, and no component-library dependencies.
+- Wrote a technical gap analysis comparing these components with Radix UI / shadcn (portals, scroll lock, focus scopes, dismissable layers).
+- [Repository ↗](https://github.com/asifnawaz23/Flyrank-AI-Internship)
+
+## Featured projects
+
+<p align="center">
+  <a href="#01--scamshield-ai"><img src="./assets/scamshield-card.svg" width="49%" alt="ScamShield AI: evidence-first threat analysis" /></a>
+  <a href="#02--dentalsense-ai"><img src="./assets/dentalsense-card.svg" width="49%" alt="DentalSense AI: feedback intelligence with local inference" /></a>
+</p>
+<p align="center">
+  <a href="#03--fleetpulse"><img src="./assets/fleetpulse-card.svg" width="49%" alt="FleetPulse: live fleet tracking and operations" /></a>
+  <a href="#04--streamai"><img src="./assets/streamai-card.svg" width="49%" alt="STREAMAI: real-time multi-model conversation" /></a>
+</p>
+
+### 01 · ScamShield AI
+
+Scam and phishing analysis for Pakistan. You paste a message, link, or screenshot and get back a report that explains its verdict.
+
+- **Problem:** Spam filters say "likely spam" and stop there. Users can't see why, and the filters guess even when there's little evidence.
+- **Approach:** A deterministic signal engine scores the input first: 16 signal classes, Roman Urdu support, URL typosquat and homoglyph checks, and reputation APIs. The AI only explains that evidence. It never produces the verdict, and it returns "Unknown" when evidence is thin.
+- **Proof:** 89 automated tests covering detection, IDOR protection, JWT and OAuth state handling, and email-verification token lifecycle. Deployed on Netlify with Turso.
+
+`React` `TypeScript` `Node.js` `Express` `Turso` `Three.js` `Vision OCR`  &nbsp;→&nbsp; [Live ↗](https://myscamshield-ai.netlify.app/) · [Source ↗](https://github.com/asifnawaz23/ScamShield-AI)
+
+<details>
+<summary><b>Architecture</b></summary>
+
+```mermaid
+flowchart LR
+    IN["Message / URL"] --> V["Validate & sanitize"]
+    SS["Screenshot"] --> OCR["Vision OCR"] --> V
+    V --> SIG["Signal engine<br/>16 classes · Roman Urdu"]
+    SIG --> URL["URL structure<br/>typosquat · @-trick · punycode"]
+    URL --> REP["Reputation<br/>VirusTotal · Safe Browsing · AbuseIPDB"]
+    REP --> SCORE["Weighted score 0–98<br/>traceable per signal"]
+    SCORE --> AI["AI explanation<br/>bound to evidence"]
+    AI --> OUT["Report · attack chain<br/>safe reply · limitations"]
+```
+
+The score is computed before any model runs, so every number in the report traces back to a specific signal. The model only turns that evidence into plain language.
+
+</details>
+
+### 02 · DentalSense AI
+
+Turns unstructured clinic feedback into sentiment, themes, and trends. Built during the SafeX internship.
+
+- **Problem:** Clinics get feedback from many channels. Reading and tagging it by hand is slow and inconsistent, so recurring issues like long waits or pricing confusion get missed.
+- **Approach:** Sentiment comes from a real transformer (DistilBERT SST-2) running locally on CPU. Themes come from explainable rules instead of a second black-box model. Generated insights are limited to claims backed by computed statistics.
+- **Proof:** pytest suite, model card, architecture docs. Uses synthetic data only and makes no clinical claims.
+
+`Python` `FastAPI` `Hugging Face Transformers` `PyTorch` `React`  &nbsp;→&nbsp; [Source ↗](https://github.com/asifnawaz23/safex-ai-ml-internship/tree/main/WEEK%203/DentalSense-AI)
+
+<details>
+<summary><b>Architecture</b></summary>
+
+```mermaid
+flowchart LR
+    ONE["Single review"] --> API["FastAPI service"]
+    CSV["CSV batch"] --> VAL["Schema, size & duplicate-ID checks"] --> API
+    API --> SENT["DistilBERT SST-2<br/>local CPU inference"]
+    API --> THEME["Rule-based themes<br/>9 categories"]
+    SENT --> AGG["Analytics<br/>rates · confidence · monthly series"]
+    THEME --> AGG
+    AGG --> UI["React dashboard<br/>trends · hotspots · explorer"]
+```
+
+Sentiment uses the model because it handles nuance. Themes use rules because a clinic manager needs to know exactly why a review was tagged "Pricing".
+
+</details>
+
+### 03 · FleetPulse
+
+Real-time fleet management: live vehicle tracking, trips, fuel, maintenance, and alerts, with separate admin and driver portals.
+
+- **Problem:** A dispatcher needs to see vehicle positions and problems as they happen, not after a page refresh.
+- **Approach:** A telemetry simulator emits GPS updates every 4 seconds on 5 Karachi routes. Socket.IO broadcasts them to every connected dashboard, where MapLibre renders live markers. The server raises alerts for speeding, low fuel, harsh braking, and geofence violations.
+- **Proof:** TypeScript end to end, JWT role-based auth (ADMIN / DRIVER), bcrypt password hashing, express-validator on every mutation endpoint, and trip replay with timeline scrubbing.
+
+`React 19` `TypeScript` `Node.js` `Express` `Socket.IO` `MapLibre GL` `SQLite`  &nbsp;→&nbsp; [Source ↗](https://github.com/asifnawaz23/-Decodelabs/tree/main/week%203%20proj)
+
+<details>
+<summary><b>Architecture</b></summary>
+
+```mermaid
+flowchart LR
+    SIM["GPS telemetry simulator<br/>5 routes · 4 s ticks"] --> API["Express + TypeScript API"]
+    API <--> DB[("SQLite")]
+    AUTH["JWT · bcrypt<br/>ADMIN / DRIVER guard"] --- API
+    API -- "Socket.IO fleet:update" --> WEB["React 19 dashboard"]
+    WEB --> MAP["MapLibre live map<br/>trip replay"]
+    API --> ALERT["Alerts<br/>speed · fuel · geofence"]
+    ALERT -- push --> WEB
+```
+
+Telemetry is pushed over WebSockets instead of polled, so one server tick updates every open dashboard at once.
+
+</details>
+
+### 04 · STREAMAI
+
+Streaming chat across multiple AI models, with a live 3D hologram in the interface.
+
+- **Problem:** Waiting for a full model response feels slow, and a single expired API key takes the whole app offline.
+- **Approach:** Tokens stream to the UI as they're generated, through a Next.js route handler that runs only on the server. If a provider key is invalid or out of quota, the handler retries with the next key. Users can switch between Gemini and OpenRouter (Nemotron).
+- **Proof:** Strict TypeScript with no `any`. API keys never reach the client bundle. Deployed on Vercel.
+
+`Next.js 15` `React 19` `TypeScript` `Vercel AI SDK` `React Three Fiber`  &nbsp;→&nbsp; [Live ↗](https://stream-ai-chat.vercel.app) · [Source ↗](https://github.com/asifnawaz23/Stream-ai-ChatBot)
+
+<details>
+<summary><b>Request flow</b></summary>
+
+```mermaid
+sequenceDiagram
+    participant B as Browser (useChat)
+    participant R as Next.js route handler
+    participant P as Gemini / OpenRouter
+    B->>R: POST /api/chat (messages, model)
+    R->>P: streamText() with primary key
+    alt key invalid or quota exhausted
+        R->>P: retry with fallback key
+    end
+    P-->>R: token stream
+    R-->>B: plain-text stream, rendered live
+```
+
+</details>
+
+### More work
+
+| Project | What it shows | Stack |
+|:--|:--|:--|
+| [**Nexora Inventory**](https://github.com/asifnawaz23/-Decodelabs/tree/main/Week%202%20proj) | Full-stack inventory system. Every UI action calls a real Express REST API with server-side validation. Includes analytics views and a 3D dashboard scene. | React · Vite · Express · R3F |
+| [**Prime App**](https://github.com/asifnawaz23/PrimeApp) | Deployed Next.js platform with a WebGL hero, JWT-protected admin CMS, and Prisma/PostgreSQL persistence. | Next.js · Prisma · PostgreSQL · Three.js |
+| [**PhoenixGrid**](https://github.com/asifnawaz23/PhoenixGrid) | Emergency-response platform with Leaflet incident mapping, an Express API, and Microsoft SQL Server. | React · Leaflet · Express · MSSQL |
+
+## Skills, with evidence
+
+Every skill below links to at least one project where it was used.
+
+| Skill | ScamShield | DentalSense | FleetPulse | STREAMAI | Vuln. triage |
+|:--|:-:|:-:|:-:|:-:|:-:|
+| TypeScript / React | ● | ● | ● | ● | |
+| Node.js / Express | ● | | ● | | |
+| Python / FastAPI | | ● | | | ● |
+| ML models (Transformers, PyTorch) | | ● | | | ● |
+| LLM integration | ● | | | ● | |
+| Real-time (WebSockets, streaming) | | | ● | ● | |
+| Auth & security (JWT, OAuth, bcrypt) | ● | | ● | | |
+| SQL databases | ● | | ● | | |
+| Automated testing | ● | ● | | | ● |
+| 3D / WebGL | ● | | | ● | |
+
+<p align="center">
+  <img src="./assets/code-composition.svg" width="100%" alt="Isometric bar chart of programming language share across original public repositories, generated from the GitHub API." />
+</p>
+
+<sub>Generated from the GitHub API by <a href="./scripts/generate-stats.mjs"><code>scripts/generate-stats.mjs</code></a> and refreshed every week by GitHub Actions. Markup, styles, notebooks, and repositories with committed dependency folders are excluded, so the chart reflects code I wrote.</sub>
+
+## How I work
+
+- **AI should show its evidence.** Scores trace back to signals, uncertainty is stated openly, and the system returns "Unknown" instead of guessing.
+- **Security is part of the first version.** Ownership checks, server-only secrets, and input validation go in from the start.
+- **The interface is engineering work.** Accessibility, keyboard support, and real-time feedback get the same care as the API.
 
 ## Contact
 
-For engineering, product, or research conversations:
-
-[**masifnawaz815@gmail.com**](mailto:masifnawaz815@gmail.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/muhammad-asif-nawaz-) &nbsp;·&nbsp; [**GitHub**](https://github.com/asifnawaz23)
-
-<br />
-
-<p align="center">
-  <sub>Designed as a living systems portfolio by Muhammad Asif Nawaz.</sub>
-</p>
+[masifnawaz815@gmail.com](mailto:masifnawaz815@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-asif-nawaz-) · [GitHub](https://github.com/asifnawaz23)

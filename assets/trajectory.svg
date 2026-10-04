@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering trajectory, 2024 to 2026</title>
+  <desc id="desc">Animated isometric staircase showing five stages: foundations in 2024, first full-stack apps in 2025, spatial systems in July 2026, shipped products and the FlyRank internship in August 2026, and applied AI with the SafeX internship in September 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070807"/><stop offset="1" stop-color="#0E110F"/></linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6CE5E8" stop-opacity="0.15"/><stop offset="1" stop-color="#B8FF5A"/></linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#F2F3ED" stroke-opacity="0.03"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect x="8" y="8" width="1184" height="384" rx="14"/></clipPath>
+    <style>
+      .dash{stroke-dasharray:6 9;animation:dash 3s linear infinite}.s1,.s2,.s3,.s4,.s5{animation:lift 5s ease-in-out infinite}.s2{animation-delay:.4s}.s3{animation-delay:.8s}.s4{animation-delay:1.2s}.s5{animation-delay:1.6s}.pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes dash{to{stroke-dashoffset:-150}}@keyframes lift{0%,100%{opacity:.8}50%{opacity:1}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){.dash,.s1,.s2,.s3,.s4,.s5,.pulse{animation:none!important}}
+    </style>
+  </defs>
+  <rect x="8" y="8" width="1184" height="384" rx="14" fill="url(#bg)" stroke="#F2F3ED" stroke-opacity="0.16"/>
+  <g clip-path="url(#frame)">
+    <rect x="8" y="8" width="1184" height="384" fill="url(#grid)"/>
+    <text x="34" y="34" fill="#B8FF5A" font-family="Consolas, monospace" font-size="11" letter-spacing="2">TRAJECTORY / 2024 → 2026</text>
+    <text x="1166" y="34" text-anchor="end" fill="#5F655F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.4">EACH STEP = REAL REPOSITORIES</text>
+    <path d="M34 46H1166" stroke="#F2F3ED" stroke-opacity="0.1"/>
+
+    <!-- floor -->
+    <path d="M40 352H1160" stroke="#F2F3ED" stroke-opacity="0.07"/>
+
+    <!-- Step 1: base (150, 320), h 40 => top y 280 -->
+    <g class="s1">
+      <ellipse cx="150" cy="356" rx="92" ry="12" fill="#000" opacity="0.7"/>
+      <path d="M72 280L150 310V350L72 320Z" fill="#1A1D1B"/><path d="M228 280L150 310V350L228 320Z" fill="#121513"/>
+      <path d="M150 250L228 280L150 310L72 280Z" fill="#2B302C" stroke="#F2F3ED" stroke-opacity="0.12"/>
+    </g>
+    <!-- Step 2: base (375, 320), h 75 => top y 245 -->
+    <g class="s2">
+      <ellipse cx="375" cy="356" rx="92" ry="12" fill="#000" opacity="0.7"/>
+      <path d="M297 245L375 275V350L297 320Z" fill="#1C211E"/><path d="M453 245L375 275V350L453 320Z" fill="#131715"/>
+      <path d="M375 215L453 245L375 275L297 245Z" fill="#323A35" stroke="#F2F3ED" stroke-opacity="0.12"/>
+    </g>
+    <!-- Step 3: base (600, 320), h 110 => top y 210 -->
+    <g class="s3">
+      <ellipse cx="600" cy="356" rx="92" ry="12" fill="#000" opacity="0.7"/>
+      <path d="M522 210L600 240V350L522 320Z" fill="#17302F"/><path d="M678 210L600 240V350L678 320Z" fill="#0F2120"/>
+      <path d="M600 180L678 210L600 240L522 210Z" fill="#2E6062" stroke="#6CE5E8" stroke-opacity="0.35"/>
+    </g>
+    <!-- Step 4: base (825, 320), h 145 => top y 175 -->
+    <g class="s4">
+      <ellipse cx="825" cy="356" rx="92" ry="12" fill="#000" opacity="0.7"/>
+      <path d="M747 175L825 205V350L747 320Z" fill="#23361A"/><path d="M903 175L825 205V350L903 320Z" fill="#172512"/>
+      <path d="M825 145L903 175L825 205L747 175Z" fill="#5E8A35" stroke="#B8FF5A" stroke-opacity="0.4"/>
+    </g>
+    <!-- Step 5: base (1050, 320), h 180 => top y 140 -->
+    <g class="s5">
+      <ellipse cx="1050" cy="356" rx="92" ry="12" fill="#000" opacity="0.7"/>
+      <path d="M972 140L1050 170V350L972 320Z" fill="#3D5A22"/><path d="M1128 140L1050 170V350L1128 320Z" fill="#283C17"/>
+      <path d="M1050 110L1128 140L1050 170L972 140Z" fill="#B8FF5A" stroke="#E7FFC5" stroke-opacity="0.7"/>
+    </g>
+
+    <!-- growth trail across the step tops -->
+    <path id="route" d="M150 280L375 245L600 210L825 175L1050 140" fill="none" stroke="url(#trail)" stroke-width="2" class="dash"/>
+    <circle r="6" fill="#B8FF5A" filter="url(#glow)">
+      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+    </circle>
+    <circle class="pulse" cx="1050" cy="140" r="5" fill="#050505"/>
+
+    <!-- labels -->
+    <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+      <g transform="translate(150 186)">
+        <text fill="#6F756F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">2024</text>
+        <text y="20" fill="#EDEFE7" font-size="14" font-weight="600">Foundations</text>
+        <text y="38" fill="#7C827C" font-size="11">JS / TS command-line tools</text>
+      </g>
+      <g transform="translate(375 151)">
+        <text fill="#6F756F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">2025</text>
+        <text y="20" fill="#EDEFE7" font-size="14" font-weight="600">First full-stack apps</text>
+        <text y="38" fill="#7C827C" font-size="11">Flask, templating, web UIs</text>
+      </g>
+      <g transform="translate(600 116)">
+        <text fill="#6CE5E8" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">JUL 2026</text>
+        <text y="20" fill="#EDEFE7" font-size="14" font-weight="600">Spatial systems</text>
+        <text y="38" fill="#7C827C" font-size="11">PhoenixGrid · Leaflet · MSSQL</text>
+      </g>
+      <g transform="translate(825 81)">
+        <text fill="#B8FF5A" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">AUG 2026</text>
+        <text y="20" fill="#EDEFE7" font-size="14" font-weight="600">Shipped products</text>
+        <text y="38" fill="#7C827C" font-size="11">STREAMAI · FleetPulse · FlyRank</text>
+      </g>
+      <g transform="translate(1050 68)">
+        <text fill="#B8FF5A" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">SEP 2026</text>
+        <text y="18" fill="#EDEFE7" font-size="14" font-weight="600">Applied AI</text>
+        <text y="34" fill="#7C827C" font-size="11">ScamShield · SafeX ML work</text>
+      </g>
+    </g>
+  </g>
+</svg>
