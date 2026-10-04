@@ -193,11 +193,17 @@ Every skill below links to at least one project where it was used.
 | Automated testing | ● | ● | | | ● |
 | 3D / WebGL | ● | | | ● | |
 
+## By the numbers
+
+<p align="center">
+  <img src="./assets/activity-3d.svg" width="100%" alt="3D skyline of daily GitHub contributions over the last 12 months, one tower per day, with monthly contribution bars, total contributions, active days, longest streak, and busiest month." />
+</p>
+
 <p align="center">
   <img src="./assets/code-composition.svg" width="100%" alt="Isometric bar chart of programming language share across original public repositories, generated from the GitHub API." />
 </p>
 
-<sub>Generated from the GitHub API by <a href="./scripts/generate-stats.mjs"><code>scripts/generate-stats.mjs</code></a> and refreshed every week by GitHub Actions. Markup, styles, notebooks, and repositories with committed dependency folders are excluded, so the chart reflects code I wrote.</sub>
+<sub>Both charts are generated from live GitHub data by <a href="./scripts/generate-stats.mjs"><code>scripts/generate-stats.mjs</code></a> and refreshed every week by GitHub Actions. The skyline uses the public contribution calendar. The language chart excludes markup, styles, notebooks, and repositories with committed dependency folders, so it reflects code I wrote.</sub>
 
 ## How I work
 
