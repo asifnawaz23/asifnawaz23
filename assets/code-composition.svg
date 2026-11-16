@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">Code composition across original public repositories</title>
-  <desc id="desc">Isometric bar chart of programming language share by code volume, generated from the GitHub API on 2026-11-09.</desc>
+  <desc id="desc">Isometric bar chart of programming language share by code volume, generated from the GitHub API on 2026-11-16.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070807"/><stop offset="1" stop-color="#0E110F"/></linearGradient>
     <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#F2F3ED" stroke-opacity="0.03"/></pattern>
@@ -16,7 +16,7 @@
     <rect x="8" y="8" width="1184" height="384" fill="url(#grid)"/>
     <rect class="scan" x="20" y="60" width="120" height="300" fill="#B8FF5A" opacity="0.05"/>
     <text x="34" y="42" fill="#B8FF5A" font-family="Consolas, monospace" font-size="11" letter-spacing="2">CODE COMPOSITION / LIVE GITHUB DATA</text>
-    <text x="1166" y="42" text-anchor="end" fill="#5F655F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.4">GENERATED 2026-11-09</text>
+    <text x="1166" y="42" text-anchor="end" fill="#5F655F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.4">GENERATED 2026-11-16</text>
     <path d="M34 58H1166" stroke="#F2F3ED" stroke-opacity="0.1"/>
     <path d="M34 315H730" stroke="#F2F3ED" stroke-opacity="0.08"/>
     
@@ -27,59 +27,68 @@
       <path d="M84 115L114 130L84 145L54 130Z" fill="#B8FF5A" fill-opacity="0.95"/>
       <path d="M84 145V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="84" y="104" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">62.1%</text>
+    <text x="84" y="104" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">49.6%</text>
     <text x="84" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">TYPESCRIPT</text>
-    <ellipse cx="234" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
+    <ellipse cx="208" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:0.28s">
-      <path d="M204 247.38976485022297L234 262.38976485022295L234 315L204 300Z" fill="#6CE5E8" fill-opacity="0.42"/>
-      <path d="M264 247.38976485022297L234 262.38976485022295L234 315L264 300Z" fill="#6CE5E8" fill-opacity="0.22"/>
-      <path d="M234 232.38976485022297L264 247.38976485022297L234 262.38976485022295L204 247.38976485022297Z" fill="#6CE5E8" fill-opacity="0.95"/>
-      <path d="M234 262.38976485022295V315" stroke="#050505" stroke-opacity="0.35"/>
+      <path d="M178 208.9582361139869L208 223.9582361139869L208 315L178 300Z" fill="#6CE5E8" fill-opacity="0.42"/>
+      <path d="M238 208.9582361139869L208 223.9582361139869L208 315L238 300Z" fill="#6CE5E8" fill-opacity="0.22"/>
+      <path d="M208 193.9582361139869L238 208.9582361139869L208 223.9582361139869L178 208.9582361139869Z" fill="#6CE5E8" fill-opacity="0.95"/>
+      <path d="M208 223.9582361139869V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="234" y="221.38976485022297" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">19.2%</text>
-    <text x="234" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">JAVASCRIPT</text>
-    <ellipse cx="384" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
+    <text x="208" y="182.9582361139869" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">26.6%</text>
+    <text x="208" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">PYTHON</text>
+    <ellipse cx="332" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:0.56s">
-      <path d="M354 251.96416816809392L384 266.9641681680939L384 315L354 300Z" fill="#E9ECE4" fill-opacity="0.42"/>
-      <path d="M414 251.96416816809392L384 266.9641681680939L384 315L414 300Z" fill="#E9ECE4" fill-opacity="0.22"/>
-      <path d="M384 236.96416816809392L414 251.96416816809392L384 266.9641681680939L354 251.96416816809392Z" fill="#E9ECE4" fill-opacity="0.95"/>
-      <path d="M384 266.9641681680939V315" stroke="#050505" stroke-opacity="0.35"/>
+      <path d="M302 221.5059289636907L332 236.5059289636907L332 315L302 300Z" fill="#E9ECE4" fill-opacity="0.42"/>
+      <path d="M362 221.5059289636907L332 236.5059289636907L332 315L362 300Z" fill="#E9ECE4" fill-opacity="0.22"/>
+      <path d="M332 206.5059289636907L362 221.5059289636907L332 236.5059289636907L302 221.5059289636907Z" fill="#E9ECE4" fill-opacity="0.95"/>
+      <path d="M332 236.5059289636907V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="384" y="225.96416816809392" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">17.5%</text>
-    <text x="384" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">PYTHON</text>
-    <ellipse cx="534" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
+    <text x="332" y="195.5059289636907" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">22.9%</text>
+    <text x="332" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">JAVASCRIPT</text>
+    <ellipse cx="456" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:0.84s">
-      <path d="M504 290L534 305L534 315L504 300Z" fill="#8FB35C" fill-opacity="0.42"/>
-      <path d="M564 290L534 305L534 315L564 300Z" fill="#8FB35C" fill-opacity="0.22"/>
-      <path d="M534 275L564 290L534 305L504 290Z" fill="#8FB35C" fill-opacity="0.95"/>
-      <path d="M534 305V315" stroke="#050505" stroke-opacity="0.35"/>
+      <path d="M426 290L456 305L456 315L426 300Z" fill="#8FB35C" fill-opacity="0.42"/>
+      <path d="M486 290L456 305L456 315L486 300Z" fill="#8FB35C" fill-opacity="0.22"/>
+      <path d="M456 275L486 290L456 305L426 290Z" fill="#8FB35C" fill-opacity="0.95"/>
+      <path d="M456 305V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="534" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.6%</text>
-    <text x="534" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">TSQL</text>
-    <ellipse cx="684" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
+    <text x="456" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.5%</text>
+    <text x="456" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">TSQL</text>
+    <ellipse cx="580" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:1.12s">
-      <path d="M654 290L684 305L684 315L654 300Z" fill="#3FA7AA" fill-opacity="0.42"/>
-      <path d="M714 290L684 305L684 315L714 300Z" fill="#3FA7AA" fill-opacity="0.22"/>
-      <path d="M684 275L714 290L684 305L654 290Z" fill="#3FA7AA" fill-opacity="0.95"/>
-      <path d="M684 305V315" stroke="#050505" stroke-opacity="0.35"/>
+      <path d="M550 290L580 305L580 315L550 300Z" fill="#3FA7AA" fill-opacity="0.42"/>
+      <path d="M610 290L580 305L580 315L610 300Z" fill="#3FA7AA" fill-opacity="0.22"/>
+      <path d="M580 275L610 290L580 305L550 290Z" fill="#3FA7AA" fill-opacity="0.95"/>
+      <path d="M580 305V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="684" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.6%</text>
-    <text x="684" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">JAVA</text>
+    <text x="580" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.5%</text>
+    <text x="580" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">JAVA</text>
+    <ellipse cx="704" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
+    <g class="bar" style="animation-delay:1.40s">
+      <path d="M674 290L704 305L704 315L674 300Z" fill="#9AA09A" fill-opacity="0.42"/>
+      <path d="M734 290L704 305L704 315L734 300Z" fill="#9AA09A" fill-opacity="0.22"/>
+      <path d="M704 275L734 290L704 305L674 290Z" fill="#9AA09A" fill-opacity="0.95"/>
+      <path d="M704 305V315" stroke="#050505" stroke-opacity="0.35"/>
+    </g>
+    <text x="704" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.0%</text>
+    <text x="704" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">SHELL</text>
     <path d="M760 80V360" stroke="#F2F3ED" stroke-opacity="0.08"/>
     
     <g transform="translate(790 96)">
       <text fill="#5F655F" font-family="Consolas, monospace" font-size="9" letter-spacing="1.6">ORIGINAL PUBLIC REPOS</text>
-      <text y="34" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">15</text>
+      <text y="34" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">16</text>
     </g>
     
     <g transform="translate(790 176)">
       <text fill="#5F655F" font-family="Consolas, monospace" font-size="9" letter-spacing="1.6">PROGRAMMING LANGUAGES</text>
-      <text y="34" fill="#6CE5E8" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">05</text>
+      <text y="34" fill="#6CE5E8" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">06</text>
     </g>
     
     <g transform="translate(790 256)">
       <text fill="#5F655F" font-family="Consolas, monospace" font-size="9" letter-spacing="1.6">LATEST PUSH</text>
-      <text y="34" fill="#B8FF5A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">2026-10-19</text>
+      <text y="34" fill="#B8FF5A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">2026-11-15</text>
     </g>
     <circle class="pulse" cx="1150" cy="300" r="4" fill="#B8FF5A"/>
     <text x="790" y="356" fill="#5F655F" font-family="Consolas, monospace" font-size="9" letter-spacing="1.1">SHARE BY BYTES · EXCLUDES MARKUP, STYLES &amp; NOTEBOOKS</text>
