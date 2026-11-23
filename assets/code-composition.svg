@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">Code composition across original public repositories</title>
-  <desc id="desc">Isometric bar chart of programming language share by code volume, generated from the GitHub API on 2026-11-16.</desc>
+  <desc id="desc">Isometric bar chart of programming language share by code volume, generated from the GitHub API on 2026-11-23.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070807"/><stop offset="1" stop-color="#0E110F"/></linearGradient>
     <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#F2F3ED" stroke-opacity="0.03"/></pattern>
@@ -16,7 +16,7 @@
     <rect x="8" y="8" width="1184" height="384" fill="url(#grid)"/>
     <rect class="scan" x="20" y="60" width="120" height="300" fill="#B8FF5A" opacity="0.05"/>
     <text x="34" y="42" fill="#B8FF5A" font-family="Consolas, monospace" font-size="11" letter-spacing="2">CODE COMPOSITION / LIVE GITHUB DATA</text>
-    <text x="1166" y="42" text-anchor="end" fill="#5F655F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.4">GENERATED 2026-11-16</text>
+    <text x="1166" y="42" text-anchor="end" fill="#5F655F" font-family="Consolas, monospace" font-size="10" letter-spacing="1.4">GENERATED 2026-11-23</text>
     <path d="M34 58H1166" stroke="#F2F3ED" stroke-opacity="0.1"/>
     <path d="M34 315H730" stroke="#F2F3ED" stroke-opacity="0.08"/>
     
@@ -27,25 +27,25 @@
       <path d="M84 115L114 130L84 145L54 130Z" fill="#B8FF5A" fill-opacity="0.95"/>
       <path d="M84 145V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="84" y="104" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">49.6%</text>
+    <text x="84" y="104" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">51.4%</text>
     <text x="84" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">TYPESCRIPT</text>
     <ellipse cx="208" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:0.28s">
-      <path d="M178 208.9582361139869L208 223.9582361139869L208 315L178 300Z" fill="#6CE5E8" fill-opacity="0.42"/>
-      <path d="M238 208.9582361139869L208 223.9582361139869L208 315L238 300Z" fill="#6CE5E8" fill-opacity="0.22"/>
-      <path d="M208 193.9582361139869L238 208.9582361139869L208 223.9582361139869L178 208.9582361139869Z" fill="#6CE5E8" fill-opacity="0.95"/>
-      <path d="M208 223.9582361139869V315" stroke="#050505" stroke-opacity="0.35"/>
+      <path d="M178 215.51647226589637L208 230.51647226589637L208 315L178 300Z" fill="#6CE5E8" fill-opacity="0.42"/>
+      <path d="M238 215.51647226589637L208 230.51647226589637L208 315L238 300Z" fill="#6CE5E8" fill-opacity="0.22"/>
+      <path d="M208 200.51647226589637L238 215.51647226589637L208 230.51647226589637L178 215.51647226589637Z" fill="#6CE5E8" fill-opacity="0.95"/>
+      <path d="M208 230.51647226589637V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="208" y="182.9582361139869" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">26.6%</text>
+    <text x="208" y="189.51647226589637" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">25.6%</text>
     <text x="208" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">PYTHON</text>
     <ellipse cx="332" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:0.56s">
-      <path d="M302 221.5059289636907L332 236.5059289636907L332 315L302 300Z" fill="#E9ECE4" fill-opacity="0.42"/>
-      <path d="M362 221.5059289636907L332 236.5059289636907L332 315L362 300Z" fill="#E9ECE4" fill-opacity="0.22"/>
-      <path d="M332 206.5059289636907L362 221.5059289636907L332 236.5059289636907L302 221.5059289636907Z" fill="#E9ECE4" fill-opacity="0.95"/>
-      <path d="M332 236.5059289636907V315" stroke="#050505" stroke-opacity="0.35"/>
+      <path d="M302 227.1602861774349L332 242.1602861774349L332 315L302 300Z" fill="#E9ECE4" fill-opacity="0.42"/>
+      <path d="M362 227.1602861774349L332 242.1602861774349L332 315L362 300Z" fill="#E9ECE4" fill-opacity="0.22"/>
+      <path d="M332 212.1602861774349L362 227.1602861774349L332 242.1602861774349L302 227.1602861774349Z" fill="#E9ECE4" fill-opacity="0.95"/>
+      <path d="M332 242.1602861774349V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="332" y="195.5059289636907" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">22.9%</text>
+    <text x="332" y="201.1602861774349" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">22.0%</text>
     <text x="332" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">JAVASCRIPT</text>
     <ellipse cx="456" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:0.84s">
@@ -63,7 +63,7 @@
       <path d="M580 275L610 290L580 305L550 290Z" fill="#3FA7AA" fill-opacity="0.95"/>
       <path d="M580 305V315" stroke="#050505" stroke-opacity="0.35"/>
     </g>
-    <text x="580" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.5%</text>
+    <text x="580" y="264" text-anchor="middle" fill="#F2F3ED" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">0.4%</text>
     <text x="580" y="346" text-anchor="middle" fill="#9AA09A" font-family="Consolas, monospace" font-size="10" letter-spacing="0.6">JAVA</text>
     <ellipse cx="704" cy="319" rx="40" ry="8" fill="#000" opacity="0.65"/>
     <g class="bar" style="animation-delay:1.40s">
@@ -88,7 +88,7 @@
     
     <g transform="translate(790 256)">
       <text fill="#5F655F" font-family="Consolas, monospace" font-size="9" letter-spacing="1.6">LATEST PUSH</text>
-      <text y="34" fill="#B8FF5A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">2026-11-15</text>
+      <text y="34" fill="#B8FF5A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">2026-11-18</text>
     </g>
     <circle class="pulse" cx="1150" cy="300" r="4" fill="#B8FF5A"/>
     <text x="790" y="356" fill="#5F655F" font-family="Consolas, monospace" font-size="9" letter-spacing="1.1">SHARE BY BYTES · EXCLUDES MARKUP, STYLES &amp; NOTEBOOKS</text>
